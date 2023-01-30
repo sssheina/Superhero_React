@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Week_26_Superhero/static/css/main.091abe59.css",
-    "main.js": "/Week_26_Superhero/static/js/main.973999f3.js",
+    "main.js": "/Week_26_Superhero/static/js/main.c3eae709.js",
     "static/js/787.ae999ab4.chunk.js": "/Week_26_Superhero/static/js/787.ae999ab4.chunk.js",
     "static/media/Montserrat-ExtraBold.ttf": "/Week_26_Superhero/static/media/Montserrat-ExtraBold.3a9ee100617f45a96d92.ttf",
     "static/media/Montserrat-Medium.ttf": "/Week_26_Superhero/static/media/Montserrat-Medium.c86e3b9010ff63c99166.ttf",
     "static/media/Montserrat-Black.ttf": "/Week_26_Superhero/static/media/Montserrat-Black.08437fd0aa82576d3678.ttf",
     "index.html": "/Week_26_Superhero/index.html",
     "main.091abe59.css.map": "/Week_26_Superhero/static/css/main.091abe59.css.map",
-    "main.973999f3.js.map": "/Week_26_Superhero/static/js/main.973999f3.js.map",
+    "main.c3eae709.js.map": "/Week_26_Superhero/static/js/main.c3eae709.js.map",
     "787.ae999ab4.chunk.js.map": "/Week_26_Superhero/static/js/787.ae999ab4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.091abe59.css",
-    "static/js/main.973999f3.js"
+    "static/js/main.c3eae709.js"
   ]
 }
