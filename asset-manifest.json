@@ -1,18 +1,24 @@
 {
   "files": {
     "main.css": "/Week_26_Superhero/static/css/main.091abe59.css",
-    "main.js": "/Week_26_Superhero/static/js/main.c3eae709.js",
-    "static/js/787.ae999ab4.chunk.js": "/Week_26_Superhero/static/js/787.ae999ab4.chunk.js",
+    "main.js": "/Week_26_Superhero/static/js/main.c88802d2.js",
+    "static/js/787.77c2bab1.chunk.js": "/Week_26_Superhero/static/js/787.77c2bab1.chunk.js",
+    "static/media/wonder-woman.jpg": "/Week_26_Superhero/static/media/wonder-woman.8e0007bef0d6983aa2f6.jpg",
+    "static/media/spider-man.jpg": "/Week_26_Superhero/static/media/spider-man.9596ec8590c6588ca623.jpg",
+    "static/media/super-man.jpg": "/Week_26_Superhero/static/media/super-man.bf27749145595df87bb5.jpg",
+    "static/media/iron-man.jpg": "/Week_26_Superhero/static/media/iron-man.fc039ab60484ce43e496.jpg",
+    "static/media/black.jpg": "/Week_26_Superhero/static/media/black.793b246859f150d32bbd.jpg",
+    "static/media/batman.jpg": "/Week_26_Superhero/static/media/batman.3a52f192df6a625b7f3d.jpg",
     "static/media/Montserrat-ExtraBold.ttf": "/Week_26_Superhero/static/media/Montserrat-ExtraBold.3a9ee100617f45a96d92.ttf",
     "static/media/Montserrat-Medium.ttf": "/Week_26_Superhero/static/media/Montserrat-Medium.c86e3b9010ff63c99166.ttf",
     "static/media/Montserrat-Black.ttf": "/Week_26_Superhero/static/media/Montserrat-Black.08437fd0aa82576d3678.ttf",
     "index.html": "/Week_26_Superhero/index.html",
     "main.091abe59.css.map": "/Week_26_Superhero/static/css/main.091abe59.css.map",
-    "main.c3eae709.js.map": "/Week_26_Superhero/static/js/main.c3eae709.js.map",
-    "787.ae999ab4.chunk.js.map": "/Week_26_Superhero/static/js/787.ae999ab4.chunk.js.map"
+    "main.c88802d2.js.map": "/Week_26_Superhero/static/js/main.c88802d2.js.map",
+    "787.77c2bab1.chunk.js.map": "/Week_26_Superhero/static/js/787.77c2bab1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.091abe59.css",
-    "static/js/main.c3eae709.js"
+    "static/js/main.c88802d2.js"
   ]
 }
