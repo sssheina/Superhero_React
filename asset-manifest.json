@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Week_26_Superhero/static/css/main.ab2f8044.css",
+    "main.css": "/Week_26_Superhero/static/css/main.115ab6e8.css",
     "main.js": "/Week_26_Superhero/static/js/main.776f7530.js",
     "static/js/787.77c2bab1.chunk.js": "/Week_26_Superhero/static/js/787.77c2bab1.chunk.js",
     "static/media/wonder-woman.jpg": "/Week_26_Superhero/static/media/wonder-woman.8e0007bef0d6983aa2f6.jpg",
@@ -13,12 +13,12 @@
     "static/media/Montserrat-Medium.ttf": "/Week_26_Superhero/static/media/Montserrat-Medium.c86e3b9010ff63c99166.ttf",
     "static/media/Montserrat-Black.ttf": "/Week_26_Superhero/static/media/Montserrat-Black.08437fd0aa82576d3678.ttf",
     "index.html": "/Week_26_Superhero/index.html",
-    "main.ab2f8044.css.map": "/Week_26_Superhero/static/css/main.ab2f8044.css.map",
+    "main.115ab6e8.css.map": "/Week_26_Superhero/static/css/main.115ab6e8.css.map",
     "main.776f7530.js.map": "/Week_26_Superhero/static/js/main.776f7530.js.map",
     "787.77c2bab1.chunk.js.map": "/Week_26_Superhero/static/js/787.77c2bab1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab2f8044.css",
+    "static/css/main.115ab6e8.css",
     "static/js/main.776f7530.js"
   ]
 }
